@@ -1,1 +1,1 @@
-# bikerental_prediction
+# internship projects
